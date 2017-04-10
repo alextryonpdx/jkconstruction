@@ -1,0 +1,18 @@
+3�X<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:8;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-03-25 06:33:02";s:13:"post_date_gmt";s:19:"2014-03-25 06:33:02";s:12:"post_content";s:2597:"<h3>Experience Matters.</h3>
+<p>You can feel assurance that Joseph Ketner and his professional, fully trained team have the experience and qualifications necessary to take care of your exterior remodeling and improvement project, exterior siding replacement, window and door installation, and much more. Joseph Ketner Construction has been “wowing” home owners in the Portland, Oregon metropolitan area since 2002.</p>
+<p><a title="Contact" href="http://www.josephketnerconstruction.com/contact/">Get in touch now</a> with Joe, for a free in-home consultation on your dream exterior remodeling project.</p>
+<h3>Highlights to working with Joseph Ketner Construction:</h3>
+<ul>
+<li>We began serving the Portland Metro Area in 2002.</li>
+<li>We specialize in historic restoration and have beautifully restored and enhanced homes in the Irvington, Beaumont Wilshire, and other historic district neighborhoods of Portland.</li>
+<li>We offer a full spectrum of exterior remodeling services from full home re-siding, siding on new additions & remodels, to decks, porches, window & door installation, and re-roofing.</li>
+<li>We also connect you with design services so you can visualize how your finished exterior remodel will look like.</li>
+<li>We are a local, small company, so Joe is directly involved in your project from start to finish.</li>
+<li>We have a highly qualified, fully trained, professional crew.</li>
+<li>We offer a free in-home consultation. Contact us now to set up yours.</li>
+<li>We believe in using sustainable remodeling practices to lessen the environmental impact of construction, and recycle whenever possible.</li>
+</ul>
+<h3>A Personal Touch: Your Home Matters</h3>
+<p>The key to Joseph Ketner Construction’s quality is Joe, the owner’s, attention to your specific needs. You will meet one-on-one in your home with Joe to discuss your home. Joe understands that your home is one of you most prized possessions and that you care deeply about living in a beautiful, safely constructed space. Your home remodeling project will NOT be carried out like a one-size-fits-all, careless operation. We never cut corners. Instead, Joe will sit down with you and answer all your questions, providing you with options, and allow you to select what is best for your home. Contact us now for your initial free consultation and get all your questions answered.</p>
+<p><a title="Contact" href="http://www.josephketnerconstruction.com/contact/">Contact us</a> now to get started!</p>
+<p><a class="request-free-estimate" href="/contact">Request an In-Home Visit</a></p>";s:10:"post_title";s:8:"About Us";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"our-story";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-04-05 21:07:39";s:17:"post_modified_gmt";s:19:"2017-04-05 21:07:39";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:50:"http://www.josephketnerconstruction.com/?page_id=8";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
